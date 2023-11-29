@@ -11,9 +11,7 @@
         Nombre indefinido
 </div>
 
----
-
-### Construido con:
+## Construido con:
 
 <div>
 <img width="50px" height="50px" src="https://skillicons.dev/icons?i=py"/>
@@ -26,10 +24,10 @@
 <img width="80px" height="50px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Google_Colaboratory_SVG_Logo.svg/2560px-Google_Colaboratory_SVG_Logo.svg.png"/>
 </div>
 
-### Descripción 
+## Descripción 
 Algo debe ir. 
 
-### Pre-requisito 
+## Pre-requisito 
 
 - python: ![version](https://img.shields.io/badge/version-3.9.18-red)
 - CUDA: ![version](https://img.shields.io/badge/version-11.2-green)
@@ -42,9 +40,9 @@ Algo debe ir.
 > **Nota 2:**
 > Es necesario que se instalen los drivers de la GPU que usará. Puede hacerlo desde la siguiente [página](https://www.nvidia.com/Download/index.aspx)
 
-### Ejecución
+## Ejecución
 
-### Autor/es
+## Autor/es
 - Tania Sayuri Guizado Hernández | A01640092
 - Joel Isaias Solano Ocampo  | A01639289
 - Ernesto Reynoso Lizárraga  | A01639915
