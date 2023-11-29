@@ -25,7 +25,7 @@
 </div>
 
 ## Descripción 
-Algo debe ir. 
+Copy paste la intro del reporte.
 
 ## Pre-requisito 
 
@@ -41,6 +41,12 @@ Algo debe ir.
 > Es necesario que se instalen los drivers de la GPU que usará. Puede hacerlo desde la siguiente [página](https://www.nvidia.com/Download/index.aspx)
 
 ## Ejecución
+> **Antes de la ejecución:**
+> Importante tener el dataset de los videos.
+
+Durante la etapa del [análisis exploratorio](https://github.com/AlexGuzmn/Reto_AI_Period2/tree/main/An%C3%A1lisis_Exploratorio), se generó un conjunto de datos nuevo de máscaras del ventrículo izquierdo para su subdivisión en conjuntos de entrenamiento, prueba y validación. A partir de este punto, se procedió a la implementación del [modelo U-Net](https://github.com/AlexGuzmn/Reto_AI_Period2/tree/main/Modelo_Unet) con el objetivo de automatizar la predicción de las respectivas máscaras.
+
+Posteriormente, se llevó a cabo la obtención de las [landmarks](https://github.com/AlexGuzmn/Reto_AI_Period2/tree/main/Modelo_Landmarks) con la misma intención de subdividirlas en conjuntos de entrenamiento, prueba y validación. Seguido de la aplicación del otro modelo modelo U-Net para predecir el rango probable donde estas landmarks podrían ubicarse.
 
 ## Autor/es
 - Tania Sayuri Guizado Hernández | A01640092
