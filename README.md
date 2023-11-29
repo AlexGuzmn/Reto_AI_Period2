@@ -31,9 +31,9 @@ Algo debe ir.
 
 ### Pre-requisito 
 
-- python: ![version](https://img.shields.io/badge/version-3.9.18-blue)
-- CUDA: ![version](https://img.shields.io/badge/version-11.2-pink)
-- cuDNN: ![version](https://img.shields.io/badge/version-8.1.0-pink)
+- python: ![version](https://img.shields.io/badge/version-3.9.18-red)
+- CUDA: ![version](https://img.shields.io/badge/version-11.2-green)
+- cuDNN: ![version](https://img.shields.io/badge/version-8.1.0-blue)
 - TensorFlow (recommended): ![version](https://img.shields.io/badge/version-2.10-pink)
 
 > **Nota 1:**
@@ -45,7 +45,7 @@ Algo debe ir.
 ### Ejecución
 
 ### Autor/es
-Tania Sayuri Guizado Hernández | A01640092
-Joel Isaias Solano Ocampo  | A01639289
-Ernesto Reynoso Lizárraga  | A01639915
-Andrés Alejandro Guzmán González  | A01633819
+- Tania Sayuri Guizado Hernández | A01640092
+- Joel Isaias Solano Ocampo  | A01639289
+- Ernesto Reynoso Lizárraga  | A01639915
+- Andrés Alejandro Guzmán González  | A01633819
