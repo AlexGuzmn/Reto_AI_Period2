@@ -42,7 +42,7 @@ Copy paste la intro del reporte.
 
 ## Ejecución
 > **Antes de la ejecución:**
-> Importante tener el dataset de los videos.
+> Importante tener el dataset EcoNet Dynamic de la Universidad de Standford
 
 Durante la etapa del [análisis exploratorio](https://github.com/AlexGuzmn/Reto_AI_Period2/tree/main/An%C3%A1lisis_Exploratorio), se generó un conjunto de datos nuevo de máscaras del ventrículo izquierdo para su subdivisión en conjuntos de entrenamiento, prueba y validación. A partir de este punto, se procedió a la implementación del [modelo U-Net](https://github.com/AlexGuzmn/Reto_AI_Period2/tree/main/Modelo_Unet) con el objetivo de automatizar la predicción de las respectivas máscaras.
 
