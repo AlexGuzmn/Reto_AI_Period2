@@ -25,7 +25,7 @@
 </div>
 
 ## Descripción 
-Copy paste la intro del reporte.
+Este proyecto, presenta la estrategia para desarrollar dos modelos de inteligencia artificial: uno que realiza un análisis de visión computacional mediante un modelo UNET, y el otro que busca predecir  puntos de referencia también denominados landmarks, para delimitar el perímetro del área de una imagen. Todo esto se lleva a cabo con la finalidad de segmentar el ventrículo izquierdo del corazón de manera automática en una máscara binaria, utilizando un conjunto de ecocardiogramas. Este conjunto de datos consta de 10,030 videos y fue obtenido del dataset Eco-Net Dynamic de la Universidad de Stanford [https://echonet.github.io/dynamic/].
 
 ## Pre-requisito 
 
@@ -49,7 +49,7 @@ Durante la etapa del [análisis exploratorio](https://github.com/AlexGuzmn/Reto_
 Posteriormente, se llevó a cabo la obtención de las [landmarks](https://github.com/AlexGuzmn/Reto_AI_Period2/tree/main/Modelo_Landmarks) con la misma intención de subdividirlas en conjuntos de entrenamiento, prueba y validación. Seguido de la aplicación del otro modelo modelo U-Net para predecir el rango probable donde estas landmarks podrían ubicarse.
 
 ## Autor/es
-- Tania Sayuri Guizado Hernández | A01640092
-- Joel Isaias Solano Ocampo  | A01639289
-- Ernesto Reynoso Lizárraga  | A01639915
 - Andrés Alejandro Guzmán González  | A01633819
+- Ernesto Reynoso Lizárraga  | A01639915
+- Joel Isaias Solano Ocampo  | A01639289
+- Tania Sayuri Guizado Hernández | A01640092
