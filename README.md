@@ -25,7 +25,7 @@
 </div>
 
 ## Descripción 
-Este proyecto, presenta la estrategia para desarrollar dos modelos de inteligencia artificial: uno que realiza un análisis de visión computacional mediante un modelo UNET, y el otro que busca predecir  puntos de referencia también denominados landmarks, para delimitar el perímetro del área de una imagen. Todo esto se lleva a cabo con la finalidad de segmentar el ventrículo izquierdo del corazón de manera automática en una máscara binaria, utilizando un conjunto de ecocardiogramas. Este conjunto de datos consta de 10,030 videos y fue obtenido del dataset Eco-Net Dynamic de la Universidad de Stanford [https://echonet.github.io/dynamic/].
+Este proyecto, presenta la estrategia para desarrollar dos modelos de inteligencia artificial: uno que realiza un análisis de visión computacional mediante un modelo UNET, y el otro que busca predecir  puntos de referencia también denominados landmarks, para delimitar el perímetro del área de una imagen. Todo esto se lleva a cabo con la finalidad de segmentar el ventrículo izquierdo del corazón de manera automática en una máscara binaria, utilizando un conjunto de ecocardiogramas. Este conjunto de datos consta de 10,030 videos y fue obtenido del dataset [Eco-Net Dynamic](https://echonet.github.io/dynamic/) de la Universidad de Stanford.
 
 ## Pre-requisito 
 
