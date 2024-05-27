@@ -8,7 +8,7 @@
   </a>
 <h3 align="center">Inteligencia artificial avanzada para la ciencia de datos II</h3>
   <p align="center">
-        Nombre indefinido
+        AI model
 </div>
 
 ## Construido con:
